@@ -2,4 +2,4 @@
 
 ## editing file
 
-### it's a makedown file in this repertory
+it's a makedown file in this repertory
